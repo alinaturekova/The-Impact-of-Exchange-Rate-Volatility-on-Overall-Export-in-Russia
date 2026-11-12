@@ -1,2 +1,6 @@
 # The-Impact-of-Exchange-Rate-Volatility-on-Overall-Export-in-Russia
 Investigates how macroeconomic forces—specifically focusing on exchange rate movements, Foreign Direct Investment (FDI), GDP, and inflation—shaped Russia's total exports from 1993 to 2023.
+Author: Alina Turekova
+Abstract:
+This research examines how macroeconomic determinants—specifically exchange rate movements, Foreign Direct Investment (FDI), Gross Domestic Product (GDP), and inflation—influenced Russia’s total export performance between 1993 and 2023. Utilizing annual time-series data sourced from World Bank Open Data and FRED, I apply an Ordinary Least Squares (OLS) linear regression framework validated by autocorrelation, heteroskedasticity, normality, and Ramsey RESET specification tests. The model accounts for approximately 97% of the variation in Russian exports ($R^2 = 0.9696$) and demonstrates that depreciation of the Russian Ruble significantly enhances export competitiveness, while higher GDP and FDI inflows also exert strong positive effects. Conversely, rising domestic inflation significantly undermines export performance by eroding international price competitiveness.
+Note: Please refer to the full PDF file attached above for complete statistical outputs, literature synthesis tables, and policy implications.
